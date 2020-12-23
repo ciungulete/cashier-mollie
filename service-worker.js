@@ -27,31 +27,31 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "01-instalation.html",
-    "revision": "b6f464b945302b625c233f794fae272d"
+    "revision": "d860d156b6d1407a5fd67b1f990843cd"
   },
   {
     "url": "02-usage.html",
-    "revision": "08db1e3fbc18ff8f52167768addb14ff"
+    "revision": "700f82b4e73600cf6265d3797ef78827"
   },
   {
     "url": "03-events.html",
-    "revision": "95b47d05120993555376884616f78ace"
+    "revision": "c98fc13843e04567813b90ad7031baf2"
   },
   {
     "url": "04-metered.html",
-    "revision": "9e311cefb5e209381c7a9a4178d6a8af"
+    "revision": "d59dc64282b726aabe66185b427d3efd"
   },
   {
     "url": "05-faq.html",
-    "revision": "69669165db92da134acaee9993819477"
+    "revision": "95880abbb3cdf05e6f5cc1647b0e4500"
   },
   {
     "url": "06-testing.html",
-    "revision": "bbd5cf0dd1584a2f2d34c66b3cb1a79b"
+    "revision": "5771c219763bae0a5e465d599607d0da"
   },
   {
     "url": "404.html",
-    "revision": "c01898420cb7f1164bf2c917896f919d"
+    "revision": "e8e91b9989a805852f16b1832fcc5ac8"
   },
   {
     "url": "assets/css/0.styles.56931ce2.css",
@@ -150,8 +150,8 @@ self.__precacheManifest = [
     "revision": "b6b01ba29054a7fbf467ef345420402d"
   },
   {
-    "url": "assets/js/app.94b18de0.js",
-    "revision": "fc8d58bac28d014ca8f5949424814238"
+    "url": "assets/js/app.c887f826.js",
+    "revision": "abf770df376aa59eb466934d2dd832ea"
   },
   {
     "url": "assets/pages/laravelcashiermollie.png",
@@ -163,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e60458b90f889cee7c7a15069fdfede7"
+    "revision": "ebe3f154a41e560bd762445e5da34f8b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
