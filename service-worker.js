@@ -27,51 +27,51 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "01-instalation.html",
-    "revision": "ea51d5a4ccb83756647acf52ba7e0a36"
+    "revision": "814206abbf6fd36aa1cbf6b5e9dcb7b5"
   },
   {
     "url": "02-subscriptions.html",
-    "revision": "319cc72e9c34d3cdd6117e098d8cdc97"
+    "revision": "380947c3ae9cf40308123c99cd69bf9f"
   },
   {
     "url": "03-trials.html",
-    "revision": "6e5d0df86b6e21ed6f8fe19c07a16fe2"
+    "revision": "bac02fb1fc3807b54774c050561562d9"
   },
   {
     "url": "04-oneoffcharges.html",
-    "revision": "3cc1daffadd4f4336ed518cf8170c7b2"
+    "revision": "e5c552ab5b698fb1161c23fa04ca57b2"
   },
   {
     "url": "05-metered.html",
-    "revision": "9e800442f67f021e826ec32b26af7bb6"
+    "revision": "42ff42d1e0f4e1ae25d1585cdb494720"
   },
   {
     "url": "06-customer.html",
-    "revision": "534f9fa65fee1535c05c0b8f43c693e0"
+    "revision": "250826e4f897ad761a96604868256b32"
   },
   {
     "url": "07-invoices.html",
-    "revision": "60f5950842aac29061ff7bccbb1733a4"
+    "revision": "80f3843c415a6ecd25f5a4a0b5d839a1"
   },
   {
     "url": "08-events.html",
-    "revision": "dad0e3804eaf53622ea21aa099df1e3f"
+    "revision": "b92979ab029830f27dbb778cebab3f4d"
   },
   {
     "url": "09-webhook.html",
-    "revision": "6fc210ded7fc1a32d4677b9746ecccce"
+    "revision": "d1cf334768a71a2404a3cab8b5eb57b9"
   },
   {
     "url": "10-testing.html",
-    "revision": "350f68b729d2c547e4da4eaaf332be76"
+    "revision": "d2e42e4524cb9feb945d95b337676dc9"
   },
   {
     "url": "11-faq.html",
-    "revision": "e94ba1e2bbb46476a3ec82d3274a7e74"
+    "revision": "ed888f9a4fba58af4efb82916ee993e6"
   },
   {
     "url": "404.html",
-    "revision": "a4d77f25704eaee0d0bd8d18b6a3749e"
+    "revision": "f41b57e7ceb21022871ca7f36d780522"
   },
   {
     "url": "assets/css/0.styles.85d7d458.css",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "06f0ab467b31062098cffb5ff5d18bc6"
   },
   {
-    "url": "assets/img/laravelcashiermollie.533e9ba9.png",
-    "revision": "533e9ba96109d8f865943bf402f90083"
+    "url": "assets/img/laravelcashiermollie.a7bde0e4.jpg",
+    "revision": "a7bde0e4173f90acd2d72e0eb69d2764"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -178,8 +178,8 @@ self.__precacheManifest = [
     "revision": "9197d34108e50ae9ab8868b1f4b4af81"
   },
   {
-    "url": "assets/js/7.00317da1.js",
-    "revision": "c73b06567d3db622497a27db5cc7f3dc"
+    "url": "assets/js/7.441ac488.js",
+    "revision": "c926d538c7b3f320131e2c44da4b26da"
   },
   {
     "url": "assets/js/8.ebb547cf.js",
@@ -190,12 +190,12 @@ self.__precacheManifest = [
     "revision": "b6b01ba29054a7fbf467ef345420402d"
   },
   {
-    "url": "assets/js/app.aa2d4b3a.js",
-    "revision": "17847bbd62c0e5a46aaee027568b2d65"
+    "url": "assets/js/app.cb1a8297.js",
+    "revision": "3328ed82cfcce8db98c5b921755e0954"
   },
   {
-    "url": "assets/pages/laravelcashiermollie.png",
-    "revision": "533e9ba96109d8f865943bf402f90083"
+    "url": "assets/pages/laravelcashiermollie.jpg",
+    "revision": "a7bde0e4173f90acd2d72e0eb69d2764"
   },
   {
     "url": "favicon.svg",
@@ -203,7 +203,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "868ef00274a27365bee8128530012dab"
+    "revision": "5ede807ba43c6b057bc8e2c5698e391e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
