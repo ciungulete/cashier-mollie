@@ -27,51 +27,51 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "01-instalation.html",
-    "revision": "0907fe6851efe227425437962f8bd277"
+    "revision": "8319c51e902b84b6a0f9bc39cfca44b8"
   },
   {
     "url": "02-subscriptions.html",
-    "revision": "a8e286a137bd89952fa50d3d6c3ad37e"
+    "revision": "576445d4b3a8fb06795475778be12094"
   },
   {
     "url": "03-trials.html",
-    "revision": "84193e8ad6846c42b5e0171b0f49829a"
+    "revision": "fd938048d8123160251b967c523dfd5f"
   },
   {
     "url": "04-oneoffcharges.html",
-    "revision": "1bdac21d19ddff818806fc476a3e729f"
+    "revision": "4c9e61c94c6a4f38663dbf4a34c07108"
   },
   {
     "url": "05-metered.html",
-    "revision": "54f9779e2ee7b08c2202c3f6c29c5e8d"
+    "revision": "90e849b554a819102f4090b4e077d76c"
   },
   {
     "url": "06-customer.html",
-    "revision": "8c42c2d4d805208b79aa9eee90b5f3f1"
+    "revision": "f06c6ef3ac107240f158bf6f384f966a"
   },
   {
     "url": "07-invoices.html",
-    "revision": "7714dbe1ca204cb897e9eee52de86a4f"
+    "revision": "dc730e55eab19413c6d2d335e4708f3f"
   },
   {
     "url": "08-events.html",
-    "revision": "dac2ef4e60b9245a660aa93816c97657"
+    "revision": "79baefdaafedc02e172e0f0bcf204c67"
   },
   {
     "url": "09-webhook.html",
-    "revision": "8b18cc813ef674928988c687853f5f91"
+    "revision": "64fd2d7ad22a08fac4fc559183fd804f"
   },
   {
     "url": "10-testing.html",
-    "revision": "c46fb6fa9a7ca115b6463f0f708157f6"
+    "revision": "d0195f96c278f0b826303dbd496a6924"
   },
   {
     "url": "11-faq.html",
-    "revision": "3e5f06a7cc118d7a0acbff29720ea703"
+    "revision": "8db3d4e5421c9475aeef86214f920338"
   },
   {
     "url": "404.html",
-    "revision": "95b2045fa8752af54525c363f679acb6"
+    "revision": "848436c61463ea16218e4abd261c7abd"
   },
   {
     "url": "assets/css/0.styles.85d7d458.css",
@@ -96,6 +96,10 @@ self.__precacheManifest = [
   {
     "url": "assets/favicons/favicon-32x32.png",
     "revision": "2f21759d559a5e952851228adbb628ec"
+  },
+  {
+    "url": "assets/favicons/favicon.svg",
+    "revision": "06f0ab467b31062098cffb5ff5d18bc6"
   },
   {
     "url": "assets/favicons/mstile-150x150.png",
@@ -190,8 +194,8 @@ self.__precacheManifest = [
     "revision": "b6b01ba29054a7fbf467ef345420402d"
   },
   {
-    "url": "assets/js/app.f3ba73b6.js",
-    "revision": "a8080723726ad92953009c28dfa538d4"
+    "url": "assets/js/app.7d1ce803.js",
+    "revision": "38b183ca563d07f24afa03c1c56b8715"
   },
   {
     "url": "assets/pages/laravelcashiermollie.jpg",
@@ -203,7 +207,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a3fe48d0954b9d0b429f59356c2769ad"
+    "revision": "36ef4b50a9aeb81c8b8910b89043d83a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
