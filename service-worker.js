@@ -27,55 +27,55 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "01-instalation.html",
-    "revision": "c1f8b3099872de2400a9c504f782f763"
+    "revision": "37a61a34f9c269ea26075aae4e31816c"
   },
   {
     "url": "02-subscriptions.html",
-    "revision": "e1585ea3009c5d3fb8b131d8a550efc5"
+    "revision": "8da772480a3567a57a3b783eb8ed4da9"
   },
   {
     "url": "03-trials.html",
-    "revision": "21e13cc78e2b29a0cfb9359d33ec6ad0"
+    "revision": "9b155abfa5b89967c3449508b1043368"
   },
   {
     "url": "04-charges.html",
-    "revision": "9c79aa164fd05452f116c744e7df0b63"
+    "revision": "15b1f9bfa8955fc51d18a53cc1a35d1f"
   },
   {
     "url": "05-metered.html",
-    "revision": "147597e5d33a220b66c30bf54fd5c283"
+    "revision": "af7e501d60de0dc3989ec61d60ab4be1"
   },
   {
     "url": "06-customer.html",
-    "revision": "7ba803076126a22049bf5da46f63136d"
+    "revision": "f476e02682e80ad4760ff15f91f62827"
   },
   {
     "url": "07-invoices.html",
-    "revision": "71a15118667e31a7604d9fbf3ca4a832"
+    "revision": "0e41a5b008b650bd07cba78a1f60ae13"
   },
   {
     "url": "08-events.html",
-    "revision": "931d38aa4b6a7fb2186e4130605de7e5"
+    "revision": "4db558d04925942866d9b1621595c9fa"
   },
   {
     "url": "09-webhook.html",
-    "revision": "403e66b05784dce8e55bba967b9dad6b"
+    "revision": "4385ca53594ecd8d6e925be8b13e3be9"
   },
   {
     "url": "10-testing.html",
-    "revision": "fed8e27ef9b83f75ff5873d01e54879f"
+    "revision": "c8131f23068dc4525c201923b21259a9"
   },
   {
     "url": "11-faq.html",
-    "revision": "1dc377b7cf8959087815b809002516b3"
+    "revision": "a0d86292ded617ee3eef0e6d34aa920f"
   },
   {
     "url": "12-upgrade.html",
-    "revision": "1bc2c76dfc2e7d907f83d1f2bb452886"
+    "revision": "856487c5ada4a94a3666258ae1751aa1"
   },
   {
     "url": "404.html",
-    "revision": "6e8216331d431b614dd3f00cf0c72eb6"
+    "revision": "28eced69e9025f0c624f241be86a0517"
   },
   {
     "url": "android-chrome-192x192.png",
@@ -110,20 +110,20 @@ self.__precacheManifest = [
     "revision": "dea163f1fe74324aa94279fcb1166996"
   },
   {
-    "url": "assets/js/11.5377cf68.js",
-    "revision": "a24b73817591319818f9c27d5c030b98"
+    "url": "assets/js/11.31762be8.js",
+    "revision": "907068cc7c5d6c96f30d56a7440a9cf7"
   },
   {
-    "url": "assets/js/12.2e7ca3c4.js",
-    "revision": "9e634db5b4e22aebb8d51b44dfa7a7f0"
+    "url": "assets/js/12.70fce8e2.js",
+    "revision": "c279776153b2f4641813c2344dfb53b3"
   },
   {
-    "url": "assets/js/13.ed9f3ad0.js",
-    "revision": "e940647fa4e05bfc5f7e69944de1da62"
+    "url": "assets/js/13.e7f9933f.js",
+    "revision": "617256ac0c26d8f72d07f49aaae13a02"
   },
   {
-    "url": "assets/js/14.19d1c1de.js",
-    "revision": "8df951404cef71792774448a31f0090c"
+    "url": "assets/js/14.de1adec5.js",
+    "revision": "6fe226c53301f3fb28e533fb8a23226b"
   },
   {
     "url": "assets/js/15.7fc8ec73.js",
@@ -150,8 +150,8 @@ self.__precacheManifest = [
     "revision": "88282339e72c995bc76beb8508e6f118"
   },
   {
-    "url": "assets/js/20.59f1b1ec.js",
-    "revision": "2fe6d120369dfde9f088c8d0c13acbf5"
+    "url": "assets/js/20.98503888.js",
+    "revision": "010884fe6ba6d5abd17193048fa569dc"
   },
   {
     "url": "assets/js/21.e63c44b2.js",
@@ -186,8 +186,8 @@ self.__precacheManifest = [
     "revision": "b6b01ba29054a7fbf467ef345420402d"
   },
   {
-    "url": "assets/js/app.bea7df8d.js",
-    "revision": "0ca27c8bfb9ae0f40c2981a510c9586e"
+    "url": "assets/js/app.287f1219.js",
+    "revision": "a6e6f4424bbe4d62ed664ea157fccbe2"
   },
   {
     "url": "assets/pages/laravelcashiermollie.jpg",
@@ -203,7 +203,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "29e2ede2d73a6ccd0a0bf88d6bb8c6c0"
+    "revision": "c717fa22b75b845a84650849617aa122"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
